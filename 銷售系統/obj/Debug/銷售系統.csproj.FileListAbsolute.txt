@@ -1,0 +1,212 @@
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版(可能有問題)\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版-DGV版\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV版619pm6 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版-DGV同步 - 複製 - 複製\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版620\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版621_OM search btn有作用\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版621_OM search btn直接整筆訂單出來\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPJ\銷售系統新版621-2(RefreshOMDGVdone but OrdrID not display)\銷售系統\obj\Debug\銷售系統.pdb
+F:\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.exe.config
+F:\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.exe
+F:\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.pdb
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csprojResolveAssemblyReference.cache
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.MainPage.resources
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.exe
+F:\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\user\Desktop\銷售系統新版621-2\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPJ\銷售系統\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.AddOrder.resources
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.EditOrder.resources
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.MainPage.resources
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.Properties.Resources.resources
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.ViewOrder.resources
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\bin\Debug\銷售系統.exe.config
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\bin\Debug\銷售系統.exe
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\bin\Debug\銷售系統.pdb
+C:\Users\iii\Desktop\MidtermPrj\銷售系統\銷售系統\obj\Debug\銷售系統.csprojAssemblyReference.cache
